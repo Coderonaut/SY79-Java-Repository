@@ -1,4 +1,3 @@
-# SY79-Java-Repository
 # SY79 Java Practicals Repository
 
 Welcome to the Java practical repository for **SY79 Computer Science**. This repository contains solution codes, practical implementations, and core Java exercises.
@@ -28,4 +27,4 @@ Welcome to the Java practical repository for **SY79 Computer Science**. This rep
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Coderonaut08spacesci/SY79-Java-Repository.git](https://github.com/Coderonaut08spacesci/SY79-Java-Repository.git)
+   git clone [https://github.com/Coderonaut/SY79-Java-Repository.git](https://github.com/Coderonaut/SY79-Java-Repository.git)
